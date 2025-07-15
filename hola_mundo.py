@@ -1,0 +1,1 @@
+print("multiplicacion",2*3,"su respuesta")
